@@ -1,2 +1,5 @@
 heatofthemoment.asia
 ====================
+## License
+
+MIT
